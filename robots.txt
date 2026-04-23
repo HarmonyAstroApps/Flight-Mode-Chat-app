@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harmonyastroapps.github.io/Flight-Mode-Chat-app/sitemap.xml
