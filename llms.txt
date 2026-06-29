@@ -1,0 +1,39 @@
+# Flight Mode Chat
+> Offline Bluetooth messenger for iOS — chat without internet using encrypted mesh networking.
+
+## Overview
+Flight Mode Chat lets you connect directly with people around you without internet or servers. It uses a decentralized Bluetooth LE mesh network for completely private peer-to-peer communication. No internet, no servers, no data charges. Messages are end-to-end encrypted, and the app automatically discovers and connects to nearby users. You can send text messages, images, voice notes, files, and contacts. Join public channels or create private encrypted conversations. Perfect for music festivals, hiking, camping, remote locations, international travel, privacy-conscious users, emergency situations, and campus environments.
+
+## Key Features
+- Bluetooth LE mesh networking — messages hop across multiple devices to extend range
+- End-to-end encryption for all messages and media
+- No servers, no accounts, no internet connection required
+- Automatic peer discovery — finds nearby users without any setup
+- Send text messages, images, voice notes, files, and contacts
+- Public channels and private encrypted one-on-one or group conversations
+- Works in airplane mode, remote areas, and offline environments
+
+## Use Cases
+- Airplane and international travel — chat without roaming charges or Wi-Fi
+- Music festivals and crowded events — stay in touch when networks are overloaded
+- Hiking and camping — communicate in areas with no cell coverage
+- Emergency situations — maintain communication when infrastructure is down
+- Privacy-conscious users — zero data leaves your device to any server
+- Campus environments — local communication without institutional monitoring
+
+## How It Works
+Flight Mode Chat uses Bluetooth Low Energy (BLE) to create a mesh network between nearby devices. Each device acts as both a sender and a relay, allowing messages to hop from peer to peer and extend communication range beyond direct Bluetooth distance. There are no central servers involved at any point — all message routing is handled locally between devices. All messages are end-to-end encrypted before transmission, so only the intended recipient can read them. The app continuously scans for nearby peers and establishes connections automatically, requiring no manual pairing or configuration.
+
+## Platform
+- iOS
+- Price: Free
+- Works completely offline
+
+## Links
+- App Store: https://apps.apple.com/us/app/flight-mode-chat/id6749311035
+- Website: https://harmonyastroapps.github.io/Flight-Mode-Chat-app/
+- Privacy Policy: https://harmonyastroapps.github.io/Flight-Mode-Chat-app/privacy.html
+
+## Developer
+HarmonyAstroApps — indie iOS developer
+Contact: harmonyastroapp@gmail.com
